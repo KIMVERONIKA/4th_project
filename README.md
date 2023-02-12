@@ -1,4 +1,4 @@
-# Data-Analysis-Car-Purchase
+# The 4th_1 team project. Data-Analysis-Car-Purchase
 Objective 
 
 Build a model which will make a estimate a car purchase amount. To achieve this objective we wanted to do an Exploratory Data Analysis on our dataset to understand the relationship between study variables and how they can predict the car purchase amount. Our data contains 500 unique values and 9 features. 
