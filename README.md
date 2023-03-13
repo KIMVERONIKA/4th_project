@@ -33,6 +33,7 @@ We trained eight models, one RandomForestRegressor, one KNeighborsRegressor, one
  
 ## Code 
 Code for this project can be found here: https://github.com/KIMVERONIKA/Car-Purchase/blob/main/Cars_Purchase_Dataset_Final.ipynb
+
 https://github.com/KIMVERONIKA/Car-Purchase/blob/main/Car_purchase_amount_prediction_final_ANN.ipynb
 
  
