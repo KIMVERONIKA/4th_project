@@ -32,7 +32,8 @@ ColumnTransformer, Pipeline,  StandardScaler, keras
 We trained eight models, one RandomForestRegressor, one KNeighborsRegressor, one LinearRegression, one SVR, one XGBRegressor, one AdaBoostRegressor, one GradientBoostingRegressor and one DecisionTreeRegressor. We also implied Pipeline and used Grid Search to find the best hyperparameters and evaluated results with the following regression metrics such as mean absolute error, mean squared error and  r2 score. 
  
 ## Code 
-Code for this project can be found here: https://github.com/KIMVERONIKA/Car-Purchase/blob/main/Cars_Purchase_Dataset_Final.ipynb
+Code for this project can be found here:
+https://github.com/KIMVERONIKA/Car-Purchase/blob/main/Cars_Purchase_Dataset_Final.ipynb
 
 https://github.com/KIMVERONIKA/Car-Purchase/blob/main/Car_purchase_amount_prediction_final_ANN.ipynb
 
